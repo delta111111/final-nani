@@ -1,0 +1,1 @@
+var json_purok6purok_6_7 = {"type":"FeatureCollection","name":"purok6purok_6_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Purok 6":"MATIBAY"},"geometry":{"type":"Point","coordinates":[122.629672460485395,10.663471002975253]}}]}

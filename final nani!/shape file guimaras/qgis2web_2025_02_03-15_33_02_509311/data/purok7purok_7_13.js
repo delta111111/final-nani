@@ -1,0 +1,1 @@
+var json_purok7purok_7_13 = {"type":"FeatureCollection","name":"purok7purok_7_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Purok 7":"MATULUNGIN"},"geometry":{"type":"Point","coordinates":[122.626320288983294,10.669625286177686]}}]}

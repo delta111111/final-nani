@@ -1,0 +1,1 @@
+var json_pinapurok5_11 = {"type":"FeatureCollection","name":"pinapurok5_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"purok":"Purok 5"},"geometry":{"type":"Point","coordinates":[122.631316143875665,10.647832890097133]}}]}

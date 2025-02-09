@@ -1,0 +1,1 @@
+var json_purok9purok_9_17 = {"type":"FeatureCollection","name":"purok9purok_9_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Purok 9":"MAUNLAD"},"geometry":{"type":"Point","coordinates":[122.630232137625484,10.674557886097064]}}]}

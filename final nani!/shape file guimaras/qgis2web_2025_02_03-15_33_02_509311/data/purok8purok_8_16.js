@@ -1,0 +1,1 @@
+var json_purok8purok_8_16 = {"type":"FeatureCollection","name":"purok8purok_8_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Purok 8":"MABUHAY"},"geometry":{"type":"Point","coordinates":[122.633814071321922,10.669254759008988]}}]}

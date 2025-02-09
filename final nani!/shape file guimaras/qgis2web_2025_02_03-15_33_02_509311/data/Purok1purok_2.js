@@ -1,0 +1,1 @@
+var json_Purok1purok_2 = {"type":"FeatureCollection","name":"Purok1purok_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","purok 1":"PAG ASA"},"geometry":{"type":"Point","coordinates":[122.62336283714842,10.678158865070849]}}]}

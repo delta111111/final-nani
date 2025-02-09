@@ -1,0 +1,1 @@
+var json_PUROK_4 = {"type":"FeatureCollection","name":"PUROK_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"PUROK":"MASAGANA"},"geometry":{"type":"Point","coordinates":[122.619659920269683,10.669810168668326]}}]}
